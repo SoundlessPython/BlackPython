@@ -1,0 +1,25 @@
+   1. Did you start your function eith def?
+
+   2. Does your function name only have charactersand_(underscore)characters?
+
+   3. Did you put open parentesis( right after the function name?
+
+   4. did you put your argument after the parentesis (seperated by commas?
+
+   5. Did you make each argument unique(meaning no duplicate names)?
+
+   6. Did you put a close parentesis and a colon ): after the arguments?
+
+   7. Did you indent all lines if code you want in the function four spaces? No more, no less
+
+   8. Did you end your function by going back to writing with no indent (dedenting we call it)?
+
+ And when you run("use" or "call") a function, cheak these things:
+
+   1. Did you call/use/run this function by typing its name?
+
+   2. Did you put (character after the name to run is?
+
+   3. Did you put the values you want into the parentesis separated by commas?
+
+   4. Did you end thw function with ) character?

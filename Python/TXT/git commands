@@ -1,0 +1,8 @@
+git commands:
+1) git add       / -A
+2) git commit -m "message here"
+3) git status
+4) git push
+5) git pull
+6) git clone
+7) git clone --bare # import a repo
