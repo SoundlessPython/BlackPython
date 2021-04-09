@@ -4,20 +4,20 @@ time.sleep(3)
 email = raw_input("What email do you need : ")
 def phistboy_gmail_com():
 
-    print "Social Media Or Whatever"
+    print("Social Media Or Whatever")
 
 def umar212online_gmail_com():
 
 
-    print "Official Business Only"
+    print("Official Business Only")
 
 def umar213online_gmail_com():
 
-    print "Studies Only"
+    print("Studies Only")
 
 def phistboy2_gmail_com():
 
-    print "Unspecified"
+    print("Unspecified")
 
 
 if email == "phistboy@gmail.com":
